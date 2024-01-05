@@ -1,0 +1,7 @@
+services:
+  sku_route.route_subscriber:
+    class: Drupal\sku_route\Routing\RouteSubscriber
+    tags:
+      - { name: event_subscriber }
+
+

@@ -1,0 +1,7 @@
+name: 'SKU Route'
+type: module
+description: 'Provides a custom route for product SKUs.'
+package: Custom
+core_version_requirement: ^8 || ^9 || ^10
+dependencies:
+  - drupal:commerce_product

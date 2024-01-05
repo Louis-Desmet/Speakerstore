@@ -1,0 +1,7 @@
+name: 'Custom SKU Stub Module'
+type: module
+description: 'A stub module to fix missing module errors.'
+package: Custom
+core_version_requirement: ^10
+# If you are on Drupal 10, use the following line instead:
+# core_version_requirement: ^10

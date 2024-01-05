@@ -1,0 +1,6 @@
+sku_route.product_by_sku:
+  path: '/product/{commerce_product_sku}'
+  defaults:
+    _controller: '\Drupal\sku_route\Controller\ProductController::show'
+  requirements:
+    _permission: 'access content'

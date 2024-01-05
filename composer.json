@@ -19,13 +19,15 @@
         "drupal/admin_toolbar": "^3.4",
         "drupal/belgrade": "2.0",
         "drupal/commerce": "2.36.0",
+        "drupal/core": "^10.2",
         "drupal/core-composer-scaffold": "^10.1",
         "drupal/core-project-message": "^10.1",
         "drupal/core-recommended": "^10.1",
         "drupal/ds": "^3.15",
         "drupal/masquerade": "^2.0@RC",
         "drupal/pathauto": "^1.12",
-        "drupal/sshop": "1.13"
+        "drupal/sshop": "1.13",
+        "drush/drush": "^12.4"
     },
     "conflict": {
         "drupal/drupal": "*"

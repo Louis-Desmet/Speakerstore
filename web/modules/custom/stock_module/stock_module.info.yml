@@ -1,0 +1,5 @@
+name: Stock Module
+description: "Module for displaying the Stock prices of Sony, a major player in the speaker industry"
+type: module
+core_version_requirement: ^10
+package: "custom"
